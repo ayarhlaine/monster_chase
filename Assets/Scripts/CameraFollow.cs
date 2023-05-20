@@ -25,6 +25,9 @@ public class CameraFollow : MonoBehaviour
 
     private void LateUpdate()
     {
+        if (!player)
+            return;
+
         tempPosition = transform.position;
         tempPosition.x = player.position.x;
 

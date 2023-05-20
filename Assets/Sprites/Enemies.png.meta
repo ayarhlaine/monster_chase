@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemies_1_1
+      name: Ghost 1
       rect:
         serializedVersion: 2
         x: 23
@@ -126,7 +126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1_2
+      name: Ghost 2
       rect:
         serializedVersion: 2
         x: 136
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1_3
+      name: Ghost 3
       rect:
         serializedVersion: 2
         x: 259
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1_4
+      name: Ghost 4
       rect:
         serializedVersion: 2
         x: 385
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1_5
+      name: Ghost 5
       rect:
         serializedVersion: 2
         x: 508
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1_6
+      name: Ghost 6
       rect:
         serializedVersion: 2
         x: 623
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_1_7
+      name: Ghost 7
       rect:
         serializedVersion: 2
         x: 738
@@ -252,7 +252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_1
+      name: Enemy1-1
       rect:
         serializedVersion: 2
         x: 20
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_2
+      name: Enemy1-2
       rect:
         serializedVersion: 2
         x: 177
@@ -294,7 +294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_3
+      name: Enemy1-3
       rect:
         serializedVersion: 2
         x: 353
@@ -315,7 +315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_4
+      name: Enemy1-4
       rect:
         serializedVersion: 2
         x: 518
@@ -336,7 +336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_5
+      name: Enemy1-5
       rect:
         serializedVersion: 2
         x: 680
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_6
+      name: Enemy1-6
       rect:
         serializedVersion: 2
         x: 834
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_2_7
+      name: Enemy1-7
       rect:
         serializedVersion: 2
         x: 1015
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_1
+      name: Enemy2-1
       rect:
         serializedVersion: 2
         x: 23
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_2
+      name: Enemy2-2
       rect:
         serializedVersion: 2
         x: 180
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_3
+      name: Enemy2-3
       rect:
         serializedVersion: 2
         x: 357
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_4
+      name: Enemy2-4
       rect:
         serializedVersion: 2
         x: 522
@@ -483,7 +483,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_5
+      name: Enemy2-5
       rect:
         serializedVersion: 2
         x: 683
@@ -504,7 +504,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_6
+      name: Enemy2-6
       rect:
         serializedVersion: 2
         x: 837
@@ -525,7 +525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_3_7
+      name: Enemy2-7
       rect:
         serializedVersion: 2
         x: 1019
@@ -556,27 +556,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Enemies_1_1: -1251823126
-      Enemies_1_2: -312691771
-      Enemies_1_3: 404326495
-      Enemies_1_4: 882882323
-      Enemies_1_5: 721692545
-      Enemies_1_6: 391290752
-      Enemies_1_7: 668700862
-      Enemies_2_1: -520230424
-      Enemies_2_2: 719662261
-      Enemies_2_3: -575559151
-      Enemies_2_4: 60008892
-      Enemies_2_5: 1338908282
-      Enemies_2_6: 1365711058
-      Enemies_2_7: -505511553
-      Enemies_3_1: -338830515
-      Enemies_3_2: 1091109058
-      Enemies_3_3: 1656046960
-      Enemies_3_4: -625310111
-      Enemies_3_5: -1228305094
-      Enemies_3_6: 2050374452
-      Enemies_3_7: 1232039606
+      Enemy1-1: -520230424
+      Enemy1-2: 719662261
+      Enemy1-3: -575559151
+      Enemy1-4: 60008892
+      Enemy1-5: 1338908282
+      Enemy1-6: 1365711058
+      Enemy1-7: -505511553
+      Enemy2-1: -338830515
+      Enemy2-2: 1091109058
+      Enemy2-3: 1656046960
+      Enemy2-4: -625310111
+      Enemy2-5: -1228305094
+      Enemy2-6: 2050374452
+      Enemy2-7: 1232039606
+      Ghost 1: -1251823126
+      Ghost 2: -312691771
+      Ghost 3: 404326495
+      Ghost 4: 882882323
+      Ghost 5: 721692545
+      Ghost 6: 391290752
+      Ghost 7: 668700862
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
