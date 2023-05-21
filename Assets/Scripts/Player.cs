@@ -101,7 +101,7 @@ public class Player : MonoBehaviour
 
         if(collision.gameObject.CompareTag(ENEMY_TAG))
         {
-            Destroy(gameObject);
+            OnPlayerDied();
         }
     }
 
@@ -109,10 +109,14 @@ public class Player : MonoBehaviour
     {
         if (collision.CompareTag(ENEMY_TAG))
         {
-            Destroy(gameObject);
-            Debug.Log("Player died");
-            SceneManager.LoadScene("Gameover");
+            OnPlayerDied();
         }
             
+    }
+
+    private void OnPlayerDied()
+    {
+        Destroy(gameObject);
+        SceneManager.LoadScene("Gameover");
     }
 }
